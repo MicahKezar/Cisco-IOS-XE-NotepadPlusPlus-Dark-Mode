@@ -28,7 +28,7 @@ To change this behavior:
 3. Save the UDL file.
 4. Restart NotePad++.
 
-## Before & After
+## Original Configuration vs Revised Configuration
 
 ![Preview](assets/before_and_after.jpg)
 
