@@ -6,7 +6,7 @@
 
 <br />
 
-> This is a fork of the original Syntax Highlighting project made by OsamaAbbas. I only reskinned it. His project can be found [here](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight).
+> This is a fork of the original Syntax Highlighting project made by OsamaAbbas. I only reskinned it. His project can be found [here](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight). Additionally, [the original unedited .xml file](original_files/original_Cisco_IOS_XE_byOsamaAbbas.udl.xml) has been added to this repo fork.  
 
 I absolutely loved the syntax highlighting provided by the original project .xml file, but I heavily dislike Light Mode in any application (It's too harsh on the eyes! lol.) As a result, I quickly spun up this fork after I revised/reskinned the original .xml file to better match my usage of Dark Mode interfaces.
 
