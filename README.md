@@ -33,7 +33,7 @@ To change this behavior:
 
 ## Specific Color Changes
 The only changes I made to the original .xml was to the Hex colors. Here is the Diff Checker:
-![{59B33364-5FF7-4297-9D44-8DC03D3D852E}](https://github.com/user-attachments/assets/29a6ef9f-24ce-4f10-8b36-6fb965f40e39)
+![Diff](assets/diffchecker.jpg)
 
 By default, Notepad++ uses `#3F3F3F` as its Dark Mode background color. This was an easy enough change, but still left a minor issue. The rest of the original colors were too dark and hard to read. To remedy this, every color has been brightened to increase readability.
 
