@@ -6,7 +6,7 @@
 
 <br />
 
-> This is a fork of the original Syntax Highlighting project made by [Tes3awy](https://github.com/Tes3awy). I only reskinned it. His project can be found [here](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight).  Additionally, the original unedited .xml file has been added to this repo fork.  
+> This is a fork of the original Syntax Highlighting project made by [Tes3awy](https://github.com/Tes3awy). I only reskinned it. His project can be found [here](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight).    Additionally, the original unedited .xml file has been added to this repo fork.  
 
 The syntax highlighting found in the original project's [.xml file](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight/blob/main/Cisco_IOS_XE_byOsamaAbbas.udl.xml) is absolutely incredible. However, as someone who uses Dark Mode on every application, the color conflict was too hard to read. As a result, I revised/reskinned the original .xml file to allow for dark mode compatability / readability. 
 
