@@ -28,9 +28,9 @@ To change this behavior:
 3. Save the UDL file.
 4. Restart NotePad++.
 
-## Preview
+## Before & After
 
-![Preview](assets/darkmodepreview.jpg)
+![Preview](assets/before_and_after.jpg)
 
 ## Specific Color Changes
 The only changes I made to the original .xml was to the Hex colors. Here is the Diff Checker:  
