@@ -8,7 +8,7 @@
 
 > This is a fork of the original Syntax Highlighting project made by OsamaAbbas. I only reskinned it. His project can be found [here](https://github.com/Tes3awy/Cisco-IOS-XE-NotepadPlusPlus-Syntax-Highlight). Additionally, [the original unedited .xml file](original_files/original_Cisco_IOS_XE_byOsamaAbbas.udl.xml) has been added to this repo fork.  
 
-I absolutely loved the syntax highlighting provided by the original project .xml file, but I heavily dislike Light Mode in any application (It's too harsh on the eyes! lol.) As a result, I quickly spun up this fork after I revised/reskinned the original .xml file to better match my usage of Dark Mode interfaces.
+The syntax highlighting found in the original project's .xml file is absolutely incredible. However, as someone who uses Dark Mode on every application, the color conflict was too hard to read. As a result, I revised/reskinned the original .xml file to allow for dark mode compatability / readability. 
 
 ## Revised setup instructions from the original project:
 After Installing [NotePad++](https://notepad-plus-plus.org/downloads/), place the `Cisco_IOS_XE_Dark_Mode_byMicahKezar.udl.xml` file within the `%AppData%\Notepad++\userDefineLangs` folder, and restart NotePad++.
