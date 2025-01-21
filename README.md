@@ -26,4 +26,4 @@ To change this behavior:
 
 ## Preview
 
-![Preview](assets/preview.jpg)
+![Preview](assets/darkmodepreview.jpg)
