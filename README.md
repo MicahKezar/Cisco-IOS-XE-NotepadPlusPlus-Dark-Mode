@@ -1,4 +1,4 @@
-# Cisco IOS XE Commands Syntax Highlighting for Dark Mode in Notepad++ 
+# Dark Mode Support for Cisco IOS XE Commands Syntax Highlighting in Notepad++
 
 <br />
 
