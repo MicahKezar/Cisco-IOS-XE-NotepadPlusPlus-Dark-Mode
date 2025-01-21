@@ -37,7 +37,7 @@ The only changes I made to the original .xml was to the Hex colors. Here is the 
 
 By default, Notepad++ uses `#3F3F3F` as its Dark Mode background color. This was an easy enough change, but still left a minor issue. The rest of the original colors were too dark and hard to read. To remedy this, every color has been brightened to increase readability.
 
-If you wish to completely change the colors:
+### If you wish to completely change the colors:
 
 1. Open the `Cisco_IOS_XE_Dark_Mode_byMicahKezar.udl.xml` file.
 2. Identify the Keyword and its matching Style you want to change (Or identify the color in specific by entering random Hex numbers [here](https://htmlcolorcodes.com/) until you find the color you were looking for).
