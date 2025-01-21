@@ -1,4 +1,4 @@
-# Dark Mode Support for The Cisco IOS XE Commands Syntax Highlighting UDL in Notepad++
+# Dark Mode Support for Cisco IOS XE Commands Syntax Highlighting in Notepad++
 
 <br />
 
