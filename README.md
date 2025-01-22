@@ -28,9 +28,9 @@ To change this behavior:
 3. Save the UDL file.
 4. Restart NotePad++.
 
-## Original Configuration vs Revised Configuration
+## | Original UDL w/ White Mode **|** Original UDL w/ Dark Mode **|** Revised UDL w/ Dark Mode |
 
-![Preview](assets/before_and_after.jpg)
+![Preview](assets/originalWtMd_originalDkMd_revisedDkMd.png)
 
 ## Specific Color Changes
 The only changes I made to the original .xml was to the Hex colors. Here is the Diff Checker:  
