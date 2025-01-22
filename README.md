@@ -28,7 +28,7 @@ To change this behavior:
 3. Save the UDL file.
 4. Restart NotePad++.
 
-## | Original UDL w/ White Mode **|** Original UDL w/ Dark Mode **|** Revised UDL w/ Dark Mode |
+## Original UDL with White Mode, Original with Dark Mode, and Revised UDL with Dark Mode
 
 ![Preview](assets/originalWtMd_originalDkMd_revisedDkMd.png)
 
